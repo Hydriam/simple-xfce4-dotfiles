@@ -13,11 +13,11 @@ This is fork of [these liconaj dotfiles](https://github.com/liconaj/xfce4-dotfil
 
 ### Light theme with windows icon
 
-![Light theme](screenshots/light.png)
+TODO
 
 ### Dark theme with grid icon
 
-![Dark theme](screenshots/dark.png)
+TODO
 
 ## Dependencies
 
@@ -33,7 +33,7 @@ This is fork of [these liconaj dotfiles](https://github.com/liconaj/xfce4-dotfil
 
 ### Theme
 All this will be installed with  `install_themes.sh` script
-- Lim-Blue (a [fork](https://github.com/liconaj/Lim-Blue) with xfwm support from the [darkomarko42/Lim-Blue](https://github.com/darkomarko42/Lim-Blue) theme)
+- Adwaita - (It wouldn't be installed with `install_themes.sh` but it should be installed on your system)
 - Papirus icon theme
 - Papirus-folders (to change the color of papirus folders )
 
