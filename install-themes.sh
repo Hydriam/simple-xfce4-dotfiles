@@ -17,17 +17,6 @@ cd Resources
 [ ! -d $THEMES_DIR ] && mkdir -p $THEMES_DIR
 [ ! -d $ICONS_DIR ] && mkdir -p $ICONS_DIR
 
-
-# Lim Blue
-echo ""
-echo "Installing Lim Blue Theme"
-
-if [ ! -d Lim-Blue ]; then
-	git clone https://github.com/liconaj/Lim-Blue
-fi
-cp -r Lim-Blue/Lim-* $THEMES_DIR
-
-
 if [[ ! -d $ICONS_DIR/Papirus && ! -d $ICONS_DIR/Papirus-Light && ! -d $ICONS_DIR/Papirus-Dark ]]; then
 	# Papirus Icon theme
 	echo ""

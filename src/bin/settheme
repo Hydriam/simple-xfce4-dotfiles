@@ -2,8 +2,8 @@
 
 CLIPMAN=yes
 
-LIGHT="Lim-Blue"
-DARK="Lim-Blue-Dark"
+LIGHT="Adwaita"
+DARK="Adwaita-Dark"
 
 LIGHT_ICONS="Papirus-Light"
 DARK_ICONS="Papirus-Dark"
