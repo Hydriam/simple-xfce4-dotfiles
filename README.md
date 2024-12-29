@@ -1,8 +1,10 @@
 
 
-# xfce4-dotfiles
+# simple-xfce4-dotfiles
 
 Xfce desktop customization
+
+This is fork of [these liconaj dotfiles](https://github.com/liconaj/xfce4-dotfiles) most of things are made by him but im going to do some modifications to it
 
 ## Overview
 
