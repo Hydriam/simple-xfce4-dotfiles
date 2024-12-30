@@ -19,6 +19,10 @@ This is fork of [these liconaj dotfiles](https://github.com/liconaj/xfce4-dotfil
 
 ![Dark theme](screenshots/dark.png)
 
+# Known Issues
+
+- settheme seems to be broken, if you want dark theme please change "THEME=light" to "THEME=dark" in setup.sh and then set dark theme in xfce settings.
+
 ## Dependencies
 
 ### Panel plugins
@@ -65,5 +69,5 @@ Inside `configure-xfce4.sh` there is some variables you can change to avoid or a
 - **PANEL** (default: *yes*) is the most important variable because it customizes the panel placing the plugins and setting their configurations.
 - **KEYBINDINGS** (default: *no*) opens Xfwm settings and xfce4 keyboard settings to let you set your keybindings.
 - **BACKGROUNDS** (default: *no*) copies all the backgrounds located in `src/backgrounds/` to `/usr/share/backgrounds/` folder.
-- **LIGHTDM** (default: *no*) require running the script as root with `sudo` to copy the lightdm-gtk-greeter configuration in order to set the Lim-Blue theme and Papirus icons (they require to be installed globally)  and lightdm panel layout. The default background is set as `/usr/share/background/current`  (you may have to change it using `lightdm-gtk-greeter-settings` application). A backup file will be created if the file already exists. 
+- **LIGHTDM** (default: *no*) require running the script as root with `sudo` to copy the lightdm-gtk-greeter configuration in order to set the Lim-Blue theme and Papirus icons (they require to be installed globally)  and lightdm panel layout. The default background is set as `/usr/share/background/current`  (you may have to change it using `lightdm-gtk-greeter-settings` application). A backup file will be created if the file already exists.
 
