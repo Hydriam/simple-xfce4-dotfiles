@@ -1,8 +1,4 @@
 
-# You are now in branch untested!!!
-Please dont use it, it is untested and can be broken!
-
-
 # simple-xfce4-dotfiles
 
 Xfce desktop customization
