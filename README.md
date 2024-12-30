@@ -7,11 +7,11 @@ This is fork of [these liconaj dotfiles](https://github.com/liconaj/xfce4-dotfil
 
 ## Overview
 
-### Light theme with windows icon
+### Light theme
 
 ![Light theme](screenshots/light.png)
 
-### Dark theme with grid icon
+### Dark theme
 
 ![Dark theme](screenshots/dark.png)
 
