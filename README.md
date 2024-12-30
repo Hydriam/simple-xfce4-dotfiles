@@ -22,7 +22,7 @@ This is fork of [these liconaj dotfiles](https://github.com/liconaj/xfce4-dotfil
 ## Known Issues
 
 - settheme seems to be broken, if you want dark theme please change "THEME=light" to "THEME=dark" in setup.sh and then set dark theme in xfce settings.
-- This is fork of [these liconaj dotfiles](https://github.com/liconaj/xfce4-dotfiles) most of things are made by him but im going to do some modifications to it
+- menu-icon also doesn't work beacuse whiskermenu [changed their config location](https://forum.xfce.org/viewtopic.php?id=17478), i would try to fix it soon.
 
 ## Dependencies
 
