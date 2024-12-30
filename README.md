@@ -17,7 +17,7 @@ This is fork of [these liconaj dotfiles](https://github.com/liconaj/xfce4-dotfil
 
 ## Known Issues
 
-- settheme seems to be broken, if you want dark theme please change "THEME=light" to "THEME=dark" in setup.sh and then set dark theme in xfce settings.
+- settheme seems to be broken, if you want dark theme please change "THEME=light" to "THEME=dark" in setup.sh before running it and then set dark theme in xfce settings.
 
 ## Dependencies
 
