@@ -13,11 +13,11 @@ This is fork of [these liconaj dotfiles](https://github.com/liconaj/xfce4-dotfil
 
 ### Light theme with windows icon
 
-TODO
+![Light theme](screenshots/light.png)
 
 ### Dark theme with grid icon
 
-TODO
+![Dark theme](screenshots/dark.png)
 
 ## Dependencies
 
